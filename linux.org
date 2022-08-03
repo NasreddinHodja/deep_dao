@@ -6,9 +6,25 @@
 
 ** [[https://puppylinux-woof-ce.github.io/][Puppy Linux]]
 [[./imgs/puppy.jpg]]
++ mais moderninho
++ é uma coleção de distros com as mesmas ferramentas e princípios
++ customização daora
++ general hardware minimum system requirements are:
+  - CPU Type = x86, x86_64, AMD64
+  - 32bit Puppy's - CPU = single core Pentium 4 or equiv, RAM = 512mb
+  - 64bit Puppy's - CPU = 64 bit dual core, RAM = 1gb
 
 ** [[https://www.slitaz.org/en/][SliTaz]]
 [[./imgs/slitaz.jpeg]]
++ feito só pra rodar em usb mesmo
++ tem ferramentas nativas pra customizar o look
++ recommended configuration:
+  - about 192MB of RAM
+  - i486 or x86 Intel compatible processors
 
 ** [[http://tinycorelinux.net/][Tiny Core]]
 [[./imgs/tiny_core.png]]
++ esse é loco em rapasiada
++ recommended configuration:
+  - pentium 2 or better
+  - 128mb of ram + some swap
