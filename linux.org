@@ -1,0 +1,14 @@
+#+title: Linux
+
+* Linux para hardware antigo
++ todos tem foco em ser leve
++ não precisamos instalar, só rodar num USB
+
+** [[https://puppylinux-woof-ce.github.io/][Puppy Linux]]
+[[./imgs/puppy.jpg]]
+
+** [[https://www.slitaz.org/en/][SliTaz]]
+[[./imgs/slitaz.jpeg]]
+
+** [[http://tinycorelinux.net/][Tiny Core]]
+[[./imgs/tiny_core.png]]
