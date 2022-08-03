@@ -27,3 +27,11 @@
 + recommended configuration:
   - pentium 2 or better
   - 128mb of ram + some swap
+
+* others
++ [[https://www.linuxliteos.com/][Linux Lite]]
++ [[https://www.bodhilinux.com/][Bhodi Linux]]
++ [[https://lubuntu.me/][Lubuntu]]
+
+* util
++ [[https://www.tecmint.com/install-linux-os-on-usb-drive/][install linux on usb drive]]
