@@ -1,10 +1,9 @@
-#+title: Linux
+#+title: Linux para hardware antigo
 
-* Linux para hardware antigo
 + todos tem foco em ser leve
 + não precisamos instalar, só rodar num USB
 
-** [[https://puppylinux-woof-ce.github.io/][Puppy Linux]]
+* [[https://puppylinux-woof-ce.github.io/][Puppy Linux]]
 [[./imgs/puppy.jpg]]
 + mais moderninho
 + é uma coleção de distros com as mesmas ferramentas e princípios
@@ -14,7 +13,7 @@
   - 32bit Puppy's - CPU = single core Pentium 4 or equiv, RAM = 512mb
   - 64bit Puppy's - CPU = 64 bit dual core, RAM = 1gb
 
-** [[https://www.slitaz.org/en/][SliTaz]]
+* [[https://www.slitaz.org/en/][SliTaz]]
 [[./imgs/slitaz.jpeg]]
 + feito só pra rodar em usb mesmo
 + tem ferramentas nativas pra customizar o look
@@ -22,7 +21,7 @@
   - about 192MB of RAM
   - i486 or x86 Intel compatible processors
 
-** [[http://tinycorelinux.net/][Tiny Core]]
+* [[http://tinycorelinux.net/][Tiny Core]]
 [[./imgs/tiny_core.png]]
 + esse é loco em rapasiada
 + recommended configuration:
